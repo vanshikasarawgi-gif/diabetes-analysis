@@ -45,10 +45,3 @@ git clone https://github.com/vanshikasarawgi-gif/diabetes-analysis.git
 
 * FutureWarnings in Pandas for categorical groupby operations have been handled using `observed=True`.
 
-
-## Author
-
-[Vanshika Sarawgi]
-
-
-Do you want me to do that?
