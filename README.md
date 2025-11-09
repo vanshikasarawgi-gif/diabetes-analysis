@@ -27,8 +27,8 @@ This project analyzes the **Pima Indians Diabetes dataset** using Python to expl
 * **Visualizations:**
 
   * Scatter plots, line plots, and bar plots
-  * Boxplots and violin plots
-  * Average insulin vs glucose analysis
+  * correlation heatmap to show relationships between all features
+  * Examining relationships between patient health factors and diabetes outcomes.
 
 ## How to Run
 
